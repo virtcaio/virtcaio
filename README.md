@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Caio Olivera - @virtcaio
-- 👀 I’m Brazilian, Engineer, Book Author, Principal Multi-Cloud Architect at VMware, VCIX-NV, CCIE. Husband and Father of Two Beautiful Girls. Beer Lover and Soccer Fan of Corinthians. 
-- 📫 How to reach me - hello@virtcaio.com
-<!---
-virtcaio/virtcaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Engineer. 20 years in tech, up to Principal Engineer at VMware and Broadcom. CCIE. Now building AI agents at Caio IA.
